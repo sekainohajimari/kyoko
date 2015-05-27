@@ -55,6 +55,8 @@ GEM
       dotenv
       mem
       slop
+    ruboty-alias (0.0.8)
+      ruboty (>= 1.1.1)
     ruboty-cron (1.0.0)
       activesupport
       chrono
@@ -133,6 +135,7 @@ PLATFORMS
 
 DEPENDENCIES
   ruboty
+  ruboty-alias
   ruboty-cron
   ruboty-deadline
   ruboty-echo

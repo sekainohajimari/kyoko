@@ -11,6 +11,7 @@ gem 'ruboty-weather'
 gem 'ruboty-instagram'
 gem 'ruboty-deadline'
 gem 'ruboty-twitter_search'
+gem 'ruboty-alias'
 
 group :production do
   gem 'ruboty-slack'
