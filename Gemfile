@@ -14,6 +14,7 @@ gem 'ruboty-twitter_search'
 gem 'ruboty-alias'
 
 group :production do
+  gem 'ruboty-redis'
   gem 'ruboty-slack'
   gem 'ruboty-message_suffix'
   gem 'ruboty-talk'
