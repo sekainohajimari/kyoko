@@ -84,8 +84,6 @@ GEM
     ruboty-instagram (0.0.1)
       instagram
       ruboty
-    ruboty-message_suffix (0.0.3)
-      ruboty
     ruboty-redis (0.0.5)
       redis
       redis-namespace
@@ -150,7 +148,6 @@ DEPENDENCIES
   ruboty-google_image
   ruboty-hatena_hotentry
   ruboty-instagram
-  ruboty-message_suffix
   ruboty-redis
   ruboty-slack
   ruboty-syoboi_calendar
