@@ -16,6 +16,6 @@ gem 'ruboty-alias'
 group :production do
   gem 'ruboty-redis'
   gem 'ruboty-slack'
-  # gem 'ruboty-message_suffix'
-  # gem 'ruboty-talk'
+  gem 'ruboty-message_suffix'
+  gem 'ruboty-talk'
 end
