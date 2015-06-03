@@ -49,6 +49,7 @@ GEM
     octokit (3.8.0)
       sawyer (~> 0.6.0, >= 0.5.3)
     rack (1.6.0)
+    rake (10.4.2)
     redis (3.2.1)
     redis-namespace (1.5.2)
       redis (~> 3.0, >= 3.0.4)
@@ -84,6 +85,9 @@ GEM
     ruboty-instagram (0.0.1)
       instagram
       ruboty
+    ruboty-japan_weather (0.0.4)
+      ruboty
+      weather_jp
     ruboty-message_suffix (0.0.3)
       ruboty
     ruboty-redis (0.0.5)
@@ -134,6 +138,11 @@ GEM
       simple_oauth (~> 0.3.0)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
+    weather_jp (2.0.0)
+      activesupport
+      nokogiri
+      rack
+      rake (>= 0.9.2)
     xrc (0.1.5)
       activesupport
 
@@ -150,6 +159,7 @@ DEPENDENCIES
   ruboty-google_image
   ruboty-hatena_hotentry
   ruboty-instagram
+  ruboty-japan_weather
   ruboty-message_suffix
   ruboty-redis
   ruboty-slack
