@@ -12,7 +12,7 @@ gem 'ruboty-instagram'
 gem 'ruboty-deadline'
 gem 'ruboty-twitter_search'
 gem 'ruboty-alias'
-gem 'ruboty-japan_weather'
+gem 'ruboty-youtube'
 
 group :production do
   gem 'ruboty-redis'
