@@ -39,7 +39,7 @@ GEM
     memoizable (0.4.2)
       thread_safe (~> 0.3, >= 0.3.1)
     mini_portile (0.6.2)
-    minitest (5.7.0)
+    minitest (5.8.0)
     multi_json (1.11.2)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
@@ -86,7 +86,7 @@ GEM
       ruboty
     ruboty-message_suffix (0.0.3)
       ruboty
-    ruboty-redis (0.0.5)
+    ruboty-redis (0.0.6)
       redis
       redis-namespace
       ruboty
@@ -164,4 +164,4 @@ DEPENDENCIES
   ruboty-youtube
 
 BUNDLED WITH
-   1.10.5
+   1.10.6
