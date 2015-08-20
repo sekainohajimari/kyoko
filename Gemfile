@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '2.2.0'
+
 gem 'ruboty'
 gem 'ruboty-google_image'
 gem 'ruboty-syoboi_calendar'
