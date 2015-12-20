@@ -1,3 +1,13 @@
+GIT
+  remote: https://github.com/fukuiretu/ruboty-todoist.git
+  revision: 97ae5d9dc893b39a8a62aa1c8e339ed07fec93cb
+  specs:
+    ruboty-todoist (0.1.0)
+      activesupport
+      dotenv
+      hashie
+      ruboty
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -170,6 +180,7 @@ DEPENDENCIES
   ruboty-slack
   ruboty-syoboi_calendar
   ruboty-talk
+  ruboty-todoist!
   ruboty-twitter_search
   ruboty-weather
   ruboty-youtube
