@@ -21,4 +21,5 @@ group :production do
   gem 'ruboty-slack'
   gem 'ruboty-message_suffix'
   gem 'ruboty-talk'
+  gem 'ruboty-todoist', github: 'fukuiretu/ruboty-todoist'
 end
